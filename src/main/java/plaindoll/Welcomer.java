@@ -16,6 +16,6 @@ public class Welcomer{
 		return "something in the way";
 	}
 	public String sayHi(){
-		return "Hi, hunter!"
+		return "Hi, hunter!";
 	}
 }
